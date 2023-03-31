@@ -7,11 +7,6 @@ Este repositório contém os arquivos HTML e CSS necessários para criar um site
 ## Pré-visualização do projeto
 [Live Preview](https://joao-sgobero-ame-a-terra.netlify.app/)
 
-## Objetivos
-- Aprender e aprimorar habilidades em HTML e CSS.
-- Aplicar os conhecimentos adquiridos na criação de um site com temática ambiental.
-- Explorar novas técnicas de design e desenvolvimento web.
-
 ## Estrutura do projeto
 - index.html: Arquivo principal do site, contendo a estrutura básica e conteúdo.
 - styles.css: Arquivo de estilos, responsável pela aparência do site.
